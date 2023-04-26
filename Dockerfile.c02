@@ -1,0 +1,3 @@
+FROM nginx:latest
+COPY c02.html /user/share/nginex/html/index.html
+
