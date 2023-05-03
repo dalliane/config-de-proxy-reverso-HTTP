@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 FROM nginx:latest
 COPY c03.html /user/share/nginex/html/index.html
+=======
+FROM nginx:latest
+COPY c01.html /user/share/nginex/html/index.html
+>>>>>>> 57d74d0134ea0421b8990eedb05ca45364ebd334
